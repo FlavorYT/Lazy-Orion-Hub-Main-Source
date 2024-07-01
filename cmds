@@ -2,6 +2,7 @@
 local user_premium__001 = game.Players:FindFirstChild("FlavorgamerYT")
 local user_premium__002 = game.Players:FindFirstChild("LittleJonib")
 local user_premium__003 = game.Players:FindFirstChild("xylar103")
+local user_premium__004 = game.Players:FindFirstChild("whoareyiu24")
 local player = game.Players.LocalPlayer
 
 --// Commands //--
@@ -119,3 +120,4 @@ end
 handleChatCommands(user_premium__001)
 handleChatCommands(user_premium__002)
 handleChatCommands(user_premium__003)
+handleChatCommands(user_premium__004)
